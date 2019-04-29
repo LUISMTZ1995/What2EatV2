@@ -44,6 +44,7 @@ class MainMenu : AppCompatActivity() {
 
             override fun onDataChange(p0: DataSnapshot) {
                 if (p0!!.exists()){
+                    comidaList.clear()
                     for(c in p0.children){
                         val comida = c.getValue(Comida::class.java)
                         comidaList.add(comida!!)
