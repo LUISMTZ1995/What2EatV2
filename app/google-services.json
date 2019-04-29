@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168748644679",
+    "firebase_url": "https://what2eatv2.firebaseio.com",
+    "project_id": "what2eatv2",
+    "storage_bucket": "what2eatv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168748644679:android:5d0197b8fb0fb211",
+        "android_client_info": {
+          "package_name": "com.example.what2eatv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168748644679-ea4v07fdk9r0mp0krqirkpfqbdtruli8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1Fkx3qScphD7-zsSpEVjevX8bPD_fus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168748644679-ea4v07fdk9r0mp0krqirkpfqbdtruli8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
